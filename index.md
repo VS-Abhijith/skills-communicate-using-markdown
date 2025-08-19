@@ -2,7 +2,7 @@
 
 ## Why Markdown Matters
 Markdown helps you format text cleanly and efficiently across GitHub and other platforms.
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ### Key Features
 - Easy to learn
 - Supports headers, lists, tables, and more
@@ -18,3 +18,4 @@ Use `Preview` to check your formatting before committing.
 
 ###### Footer
 Thanks for visiting!
+
