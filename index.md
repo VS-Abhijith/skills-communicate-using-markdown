@@ -8,6 +8,11 @@ Markdown helps you format text cleanly and efficiently across GitHub and other p
 - Supports headers, lists, tables, and more
 - Works well in README files, issues, and pull requests
 
+  
+``` javascript
+var myVar = "Hello, world!";
+```
+
 #### Use Cases
 - Documentation
 - Project notes
@@ -18,4 +23,5 @@ Use `Preview` to check your formatting before committing.
 
 ###### Footer
 Thanks for visiting!
+
 
